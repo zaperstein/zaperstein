@@ -1,16 +1,19 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**zaperstein/zaperstein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Maggie! 
 
-Here are some ideas to get you started:
+I'm a fullstack developer with a knack for bringing artistry and efficiency together in the world of code! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 I’m currently learning Python to enhance my backend skills, and React Native to be a better mobile developer! 
+🧀 I’m currently working on a mobile app for cheesemakers to record information about their make batches! 
+👯 I’m looking to collaborate on any passion projects with cool people! 
+📫 How to reach me: by email, at maggie.saperstein@gmail.com
+
+
+
+💻 My blog: https://medium.com/@maggie.saperstein
+🔗 My LinkedIn: https://www.linkedin.com/in/maggie-saperstein/
+
+Let's connect! 
+
+
